@@ -38,7 +38,10 @@ I enjoy solving complex problems at the intersection of **medicine, software, an
 ---
 
 ### 🎓 Education  
-- **Bachelor of Medicine and Bachelor of Surgery (MBChB)** — *University of Nairobi*  
+## Current
+- **Bachelor of Medicine and Bachelor of Surgery (MBChB)** — *University of Nairobi*
+- **Web Development** -*eMobilis*
+## Finished
 - **Software Development Program** — *Power Learn Project (PLP)*  
 - **High School Graduate** — *Meru School*  
 
